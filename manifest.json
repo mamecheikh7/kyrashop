@@ -1,0 +1,9 @@
+{
+  "name":"KyraShop V6",
+  "short_name":"KyraShop",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#fff8f5",
+  "theme_color":"#8e3f61",
+  "lang":"fr"
+}
